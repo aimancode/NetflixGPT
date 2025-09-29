@@ -43,4 +43,11 @@
 - update store with trailer vedio data
 - embedded the youtube video and make it autoplay
 - tailwind classes to main main container look awesome
+- build Secondary component
+- build movie list
+- build movie card
+- tmdb image cdn url
+- made the browser page look good with tailwing css
+- built custom hooks usPopularmovies and many more 
+
 <!-- -->
