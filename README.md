@@ -49,5 +49,6 @@
 - tmdb image cdn url
 - made the browser page look good with tailwing css
 - built custom hooks usPopularmovies and many more 
-
+- GPT Search feature
+- (bonus) Multi - language feature in our app
 <!-- -->
